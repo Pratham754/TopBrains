@@ -1,0 +1,7 @@
+Write a method that returns the largest of three integers using conditional logic.
+
+Input: a (int), b (int), c (int)
+Output: largest (int)
+
+Constraints:
+-1e9 <= a,b,c <= 1e9

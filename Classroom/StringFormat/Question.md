@@ -1,0 +1,11 @@
+Given strings formatted as "Name:Score", build a list of Student objects.
+Filter students with Score >= minScore, sort by Score descending then Name ascending,
+and serialize the result to a JSON array using System.Text.Json.
+
+Use a C# record for Student.
+
+Input: items (string[]), minScore (int)
+Output: json (string)
+
+Constraints:
+0 <= items.Length <= 2*10^5
