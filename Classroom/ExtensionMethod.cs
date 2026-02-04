@@ -9,7 +9,7 @@ namespace ExtensionMethod
 
             foreach (string item in items)
             {
-                string[] parts = item.Split(':');`
+                string[] parts = item.Split(':');
                 string id = parts[0];
                 string name = parts[1];
 
